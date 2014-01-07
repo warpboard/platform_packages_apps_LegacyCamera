@@ -1,0 +1,9 @@
+Code-Review+2: Glenn Kasten <gkasten@android.com>
+Verified+1: Deckard Autoverifier <deckard@android.com>
+Code-Review+1: Eino-Ville Talvala <etalvala@google.com>
+Code-Review+1: Madan Ankapura <mankapura@google.com>
+Submitted-by: Glenn Kasten <gkasten@android.com>
+Submitted-at: Tue, 07 Jan 2014 23:07:56 +0000
+Reviewed-on: https://android-review.googlesource.com/63106
+Project: platform/packages/apps/LegacyCamera
+Branch: refs/heads/master
